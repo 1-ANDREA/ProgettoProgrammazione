@@ -1,0 +1,4 @@
+/Users/andreadipietro/CLionProjects/QTPROJECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andreadipietro/CLionProjects/QTPROJECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andreadipietro/CLionProjects/QTPROJECT/cmake-build-debug/CMakeFiles/QTPROJECT.dir
+/Users/andreadipietro/CLionProjects/QTPROJECT/cmake-build-debug/CMakeFiles/QTPROJECT_autogen.dir
